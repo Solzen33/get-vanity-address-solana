@@ -1,0 +1,199 @@
+{
+  "vanity_addresses": [
+    {
+      "address": "ButNZRN17n6uMszv2PeTX6WzrqGCGvZiC7BTzLbRpump",
+      "found_at": "2025-08-12T19:33:09.708513341+00:00",
+      "private_key": "2V2TEcAgqybmpjN6gpPKgJ8vuMFHoFHRkWYZGUdAVF8kMSi3WzX3Fg6bvgj6fGXP7pt3Mg3PR3cKTqgPWKUHhVpS",
+      "search_parameters": {
+        "case_mode": "exact",
+        "prefix": null,
+        "suffix": "pump"
+      },
+      "search_stats": {
+        "attempts": 3158854,
+        "elapsed_time_human": "27.551044986s",
+        "elapsed_time_seconds": 27.551044986
+      }
+    },
+    {
+      "address": "2vhMFea7URC2ucYZjQDqUdG4zXGMU83xTgTCW51Fpump",
+      "found_at": "2025-08-12T19:35:13.348713730+00:00",
+      "private_key": "61xy6n7T9ZkjC4vD5swuc8fsKSP9NaWwLKzYTfZNCajjhZJzetkvfJqhHzmzgJkCvN7HTCGtChSUjWfddUyGP5Lr",
+      "search_parameters": {
+        "case_mode": "exact",
+        "prefix": null,
+        "suffix": "pump"
+      },
+      "search_stats": {
+        "attempts": 18387095,
+        "elapsed_time_human": "151.191245775s",
+        "elapsed_time_seconds": 151.191245775
+      }
+    },
+    {
+      "address": "7yUNQQv3hyzUnKL1RwnJztAfqsF8nR54FVWQ6Gcfpump",
+      "found_at": "2025-08-12T19:36:49.400629477+00:00",
+      "private_key": "c5SMgQXdPaj37qyE19fSXbL73qkQtdAbrpqjsRDK1CLfeL6Krz2WxorYSXdba2XVfzKfyzzcokrV17fMXsCbcRt",
+      "search_parameters": {
+        "case_mode": "exact",
+        "prefix": null,
+        "suffix": "pump"
+      },
+      "search_stats": {
+        "attempts": 31650894,
+        "elapsed_time_human": "247.243161602s",
+        "elapsed_time_seconds": 247.243161602
+      }
+    },
+    {
+      "address": "6TS6TUbV7cTqvVJTXhF5fvJJsFwMoJAAmK6h7M5Vpump",
+      "found_at": "2025-08-12T19:37:00.309722322+00:00",
+      "private_key": "5bunHbGE87CKZSu5RVfxAzUSLSMGSRDH2YMYDGxsUcCcch2JzCMLbSzEbxoQmypjE3GxrYKxyNFmp4o1RcpXYQNz",
+      "search_parameters": {
+        "case_mode": "exact",
+        "prefix": null,
+        "suffix": "pump"
+      },
+      "search_stats": {
+        "attempts": 34614792,
+        "elapsed_time_human": "258.152254927s",
+        "elapsed_time_seconds": 258.152254927
+      }
+    },
+    {
+      "address": "7DZRgKcy1fNtYVZszYJeKnx1QnZYWd57LWgSKq71pump",
+      "found_at": "2025-08-12T19:39:42.306869608+00:00",
+      "private_key": "LM9J1k7dfrhKm2qWnjaJorwEDjzzfKhruX3jWiAUBkdtCfHZQsLR3PDxrJQKaCZMwZvqob9BbEKqhYmdXhpzDj4",
+      "search_parameters": {
+        "case_mode": "exact",
+        "prefix": null,
+        "suffix": "pump"
+      },
+      "search_stats": {
+        "attempts": 56578447,
+        "elapsed_time_human": "420.149402293s",
+        "elapsed_time_seconds": 420.149402293
+      }
+    },
+    {
+      "address": "F2zwqPYfYVMBGjhXe1FZfeywaD14qL98onJhXY3apump",
+      "found_at": "2025-08-12T19:40:44.183210308+00:00",
+      "private_key": "26LFkkzb2Cyfz7Czp9pJyFJUZZnyxyCMoJyJXzq2riZVFpJbTEHXR2YYxGiLZSTEmvzPGuGijSRn4kso4V46uscS",
+      "search_parameters": {
+        "case_mode": "exact",
+        "prefix": null,
+        "suffix": "pump"
+      },
+      "search_stats": {
+        "attempts": 67346996,
+        "elapsed_time_human": "482.025742033s",
+        "elapsed_time_seconds": 482.025742033
+      }
+    },
+    {
+      "address": "2EPkVzDFbh7QtXcAxh1TUu2wa2aAjcdhjVNhLJxnpump",
+      "found_at": "2025-08-12T19:41:03.314654462+00:00",
+      "private_key": "2XCyrMiT6UnvpouPW4QdJk2xDoWYqgTx8joJwzppdhLnaczG5oq1xed2aonMDZswKspobhCaBDvVoUpVvF7RxQS2",
+      "search_parameters": {
+        "case_mode": "exact",
+        "prefix": null,
+        "suffix": "pump"
+      },
+      "search_stats": {
+        "attempts": 72982751,
+        "elapsed_time_human": "501.157187067s",
+        "elapsed_time_seconds": 501.157187067
+      }
+    },
+    {
+      "address": "8EaK9qBYZbBwWDrcPGKKnJ1abWWAJq4YCjAEkKLcpump",
+      "found_at": "2025-08-12T19:41:23.404706675+00:00",
+      "private_key": "RoQMAXgD4t4jkvnSFnRcYYNxiptRC3S5rrNT8dqyirWZVHaQrVC6yuJtaAapWP3ZLZ5jcvZD5XFBV4GzVeMirSA",
+      "search_parameters": {
+        "case_mode": "exact",
+        "prefix": null,
+        "suffix": "pump"
+      },
+      "search_stats": {
+        "attempts": 79156188,
+        "elapsed_time_human": "521.24723952s",
+        "elapsed_time_seconds": 521.24723952
+      }
+    },
+    {
+      "address": "C7wPKC2W2abD9mZnEWQ6MbkyBWzf7guXsbvf76Vdpump",
+      "found_at": "2025-08-12T19:42:51.591134939+00:00",
+      "private_key": "3J7Av3RBxNEiPdRezNMTyZw7wkGF9UgcQBCDsr1CDb4bZ1M6cCjnDMepcLr1SQtj1EuudiSTUQm2pKeSUX8tE6sp",
+      "search_parameters": {
+        "case_mode": "exact",
+        "prefix": null,
+        "suffix": "pump"
+      },
+      "search_stats": {
+        "attempts": 94090647,
+        "elapsed_time_human": "609.433667744s",
+        "elapsed_time_seconds": 609.433667744
+      }
+    },
+    {
+      "address": "EB8GsfbXr8Q6nBbvu4QVP6LF3K2BaD84mk2Kyfnipump",
+      "found_at": "2025-08-12T19:43:56.720302846+00:00",
+      "private_key": "21VLcbwPipXuydZ6aD7bLtHzoMzwusYCFaTVC2QFBMxUEGYtrkzBXQkoC5tWdMb5PwGSH7fQXmCdEiJN174h1vMc",
+      "search_parameters": {
+        "case_mode": "exact",
+        "prefix": null,
+        "suffix": "pump"
+      },
+      "search_stats": {
+        "attempts": 107238173,
+        "elapsed_time_human": "674.562835131s",
+        "elapsed_time_seconds": 674.562835131
+      }
+    },
+    {
+      "address": "CZ12tQnmhcZBdasTCvwnGNG8omv4REkmjB1RSqYvpump",
+      "found_at": "2025-08-12T19:44:31.235729215+00:00",
+      "private_key": "4bZoXBiTDGAW3o349njpCSLV8FyzrXV93pSKiYr4qUHUSGjQcGhwDxLUn9Gp75EnJWg2dMKyrFQPPBVUxF1MXkgn",
+      "search_parameters": {
+        "case_mode": "exact",
+        "prefix": null,
+        "suffix": "pump"
+      },
+      "search_stats": {
+        "attempts": 116953625,
+        "elapsed_time_human": "709.07826234s",
+        "elapsed_time_seconds": 709.07826234
+      }
+    },
+    {
+      "address": "H3hrmcnvLVLv12z73LCsbh5oiPgnSVY6zophc9Bpump",
+      "found_at": "2025-08-12T19:44:38.372831975+00:00",
+      "private_key": "5Yu1G5McTbZTbTcaWzDzJ7ND8DbXDPUYf7A37gCjiTx4hKq4mm5MHQ1SPDzFz3D2ZgH7Tr9dsDbDttjui8UfKm42",
+      "search_parameters": {
+        "case_mode": "exact",
+        "prefix": null,
+        "suffix": "pump"
+      },
+      "search_stats": {
+        "attempts": 123625480,
+        "elapsed_time_human": "716.21536498s",
+        "elapsed_time_seconds": 716.21536498
+      }
+    },
+    {
+      "address": "DAW2biNPmTxQiqEuXu53PTwet2Qm7iEpRErXxafspump",
+      "found_at": "2025-08-12T19:44:40.230467927+00:00",
+      "private_key": "5nX8m9Wy2LHq3jNb47GUykaeUm9BU8LeV4ikiL2VRr1Xwdmw3w2eCAswjNLFmQ8qATwuyK2qadCcBfSovWs9ygMk",
+      "search_parameters": {
+        "case_mode": "exact",
+        "prefix": null,
+        "suffix": "pump"
+      },
+      "search_stats": {
+        "attempts": 129631489,
+        "elapsed_time_human": "718.073001052s",
+        "elapsed_time_seconds": 718.073001052
+      }
+    }
+  ]
+}
