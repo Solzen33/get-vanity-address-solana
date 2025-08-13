@@ -2,6 +2,12 @@
 
 A high-performance vanity address generator for Solana blockchain built with Rust and multi-threading.
 
+### Stay Connected
+| Platform | Link | Purpose |
+|----------|------|---------|
+| Telegram | [t.me/FroganBee.sol](https://t.me/froganbee_sol) | Announcements & Support |
+| X | [x.com/FroganBee.sol](https://x.com/froganbee_sol) | News & Updates |
+
 ## Features
 
 - 🚀 **Multi-threaded**: Automatically uses all available CPU cores for maximum performance
